@@ -14,7 +14,7 @@ const PaintingList = () => {
           'https://api.pexels.com/v1/search?query=painting&per_page=20',
           {
             headers: {
-              Authorization: 'NDBdpxs9sZn2eIDaWuheJIRWw4HRIkOerMAVWFVieMDR8JDRJT4Hmlho', // Replace with your Pexels API key
+              Authorization: '', // Replace with your Pexels API key
             },
           }
         );
